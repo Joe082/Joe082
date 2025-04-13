@@ -1,67 +1,69 @@
-# 🚀 AI/ML Projects, Insights & Growth Journal
+# 👋 Hi, I’m Joe Zhou (Yifei)
 
-### 🎓 Data Scientist & Software Engineer | Joe Zhou
-
-Building data-driven products and sharing what I learn along the way!
-
----
-
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FFA500?logo=Google-Chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:your@email.com)
+🎯 Data Scientist | Applied Data Science @ University of Chicago  
+🧠 Neuroscience + Quantitative Science @ Emory | Top 15%  
+💡 Turning data into insights across marketing, trading, and forecasting
 
 ---
 
-### 🧠 About Me
+### 🔗 Let's Connect
 
-- 💻 Master's in Applied Data Science @ University of Chicago | BS in Neuroscience & Statistics from Emory University
-- 🧪 Passionate about AI, real-time systems, and data strategy.
-- 📊 Experienced in Predictive Modeling, Time Series Forecasting, and Market Segmentation.
-- 📈 Built a dynamic trading algorithm with 20% annualized return and led industry segmentation in healthcare R&D.
-- 🤝 Interned at Nielsen, Ogilvy, Balentine, and Diamond Equity Research.
-- 🌱 Currently deep-diving into GenAI + NLP + data infra.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)  
+📧 joeyifei@outlook.com | 📍 Chicago, IL
 
 ---
 
-### 🛠 Skills
+### 💼 What I Do
 
-**Languages**  
-`Python` `R` `SQL` `JavaScript` `HTML/CSS`  
-
-**Frameworks / Tools**  
-`Pandas` `NumPy` `scikit-learn` `TensorFlow` `PyTorch` `Tableau` `Power BI`  
-`GCP` `AWS` `BigQuery` `Snowflake` `Apache Airflow` `Git` `Figma`
-
-**Libraries**  
-`XGBoost` `SARIMA` `Prophet` `Transformers (BERT)` `Matplotlib` `Seaborn`
-
-**Concepts**  
-Machine Learning · Deep Learning · Forecasting · NLP · Causal Inference · Reinforcement Learning · Data Visualization · ETL · Real-Time Intelligence
+- 📈 **Forecasting Expert** – Built SARIMA, Prophet & XGBoost models to predict sales, optimize inventory, and detect anomalies (15% drop in error; mitigated $10M potential loss).
+- 💹 **Trading Strategy Developer** – Designed momentum-based stock strategies for asset allocation (20% annualized return at Balentine Wealth).
+- 📊 **Dashboard & Insights Builder** – Created 10+ dashboards in Tableau, Power BI, Google Analytics to guide marketing & financial decisions.
+- 🧪 **A/B & Cohort Testing** – Improved user retention and campaign ROI through statistical testing and customer segmentation (5% increase in cohort frequency at Ogilvy Health).
+- 🔎 **Growth-Oriented Analyst** – Worked across 5M+ data points, reduced refresh time by 90%, and automated custom reporting at Nielsen.
 
 ---
 
-### 📂 Featured Projects
+### 🛠 Tech Toolbox
 
-#### 🧭 [Python Roadmap](https://github.com/Joe082/Python-Roadmap)
-Learn Python from zero — 15+ Projects, 500+ Practice Questions, and Interview Prep  
-`Jupyter Notebooks` `Beginner Friendly`
+**Languages & Tools**  
+`Python` `R` `SQL` `Tableau` `Power BI` `Looker Studio` `Git` `MongoDB` `Excel` `VBA`
 
-#### 📈 [Trading Intelligence System](https://github.com/Joe082/YourProject)
-Built a dynamic trading strategy for stock pairs, combining technical indicators and dynamic weights  
-`Python` `Pandas` `Backtrader` `AWS`  
+**Cloud & Data Platforms**  
+`Snowflake` `BigQuery` `AWS (EC2, Glue, S3)` `Azure` `GCP` `Oracle SQL` `Apache Airflow` `Databricks`
 
-#### 🧠 [AI-Powered Healthcare Insights](https://github.com/Joe082/YourProject)
-Segmentation analysis and R&D potential modeling for neurological treatments  
-`R` `Survey Analysis` `Porter’s Five Forces` `Industry Interviews`
+**Skills & Methods**  
+Machine Learning · Time Series Forecasting · NLP · A/B Testing · Marketing Mix Modeling · Causal Inference · Financial Modeling · GenAI Tools (Gemini, VertexAI)
 
 ---
 
-### 🌟 GitHub Stats (Optional)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joe082&show_icons=true&hide_title=true)
+### 🔬 Recent Roles
+
+**🔹 Data Scientist Intern** – *Nielsen*  
+→ Modeled demand trends and macroeconomic impacts, automated forecasting, and drove decision-making with custom dashboards.  
+
+**🔹 Marketing Analytics Intern** – *Ogilvy Health*  
+→ Segmented 30K+ users, tested outreach channels, and optimized launch performance for a top pet allergy product.  
+
+**🔹 Trader Intern** – *Balentine Wealth Advisor*  
+→ Designed real-time momentum trading models with historical trend insights and portfolio impact.
+
+**🔹 Investment Analyst** – *Diamond Equity Research*  
+→ Built dynamic financial models and dashboards to support equity research and valuation for small-cap companies.
 
 ---
 
-### ✨ Fun Fact
-I love jazz piano improvisation and swing dance — blending rhythm, creativity, and flow 🎷🕺
+### 📚 Education
+
+🎓 Master’s in Applied Data Science – *University of Chicago*  
+🎓 BS in Neuroscience & Quantitative Science – *Emory University* (GPA 3.7 / Top 15%)
+
+---
+
+### 🎵 Fun Fact  
+I’m also into swing dancing and jazz piano — data by day, improv by night. 🎹🕺
+
+---
+
+> *“Driven by curiosity. Powered by data.”*
+
 
