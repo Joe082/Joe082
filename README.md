@@ -8,7 +8,7 @@
 
 ### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/yifei-joe-zhou/)   
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yifei-joe-zhou/)  
 📧 joeyifei@outlook.com | 📍 Chicago, IL
 
 ---
