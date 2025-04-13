@@ -66,13 +66,6 @@
 
 ---
 
-### 📚 Education
-
-🎓 Master’s in Applied Data Science – *University of Chicago*  
-🎓 BS in Neuroscience & Quantitative Science – *Emory University* (GPA 3.7 / Top 15%)
-
----
-
 ### 🎵 Fun Fact  
 I’m also into swing dancing and jazz piano — data by day, improv by night. 🎹🕺
 
