@@ -2,7 +2,7 @@
 
 🎯 Data Scientist | Applied Data Science @ University of Chicago  
 🧠 Neuroscience + Quantitative Science @ Emory | Top 15%  
-💡 Turning data into insights across marketing, trading, and forecasting
+💡 Data scientist and AI engineer with experience building end-to-end machine learning, analytics, and AI systems across healthcare, consumer technology, and forecasting. My projects span statistical modeling, experimentation, large-scale data pipelines, LLM/agent workflows, and production-oriented AI using Python, SQL, PySpark, FastAPI, GCP/AWS, and PostgreSQL/pgvector.
 
 ---
 
